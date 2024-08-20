@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
 <style>
-.keyColor {fill: #953800;}
-.valueColor {fill: #a5d6ff;}
+.keyColor {fill: #ec7063 ;}
+.valueColor {fill: #3498db;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .commentColor {fill: #8b949e;}
-text, tspan {white-space: pre;}
+.whitecolor{fill:white;}
+text, tspan {white-space:pre}
 </style>
 
 <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
-<text x="20" y="30" fill="#a5d6ff" class="ascii">
+<text x="20" y="30" fill="#85929e " class="ascii">
   <tspan x="20" y="30">                  @@@@@@                   </tspan>
   <tspan x="20" y="50">           @@@@@@@@@@@@@@@@@@@@@           </tspan>
   <tspan x="20" y="70">        @@@@@@@@@@@@@@@@@@@@@@@@@@         </tspan>
@@ -26,7 +27,7 @@ text, tspan {white-space: pre;}
   <tspan x="20" y="270"> @@ @@@  @@@@@@@@@@       @@     @      @@ </tspan>
   <tspan x="20" y="290"> @@  @@@@ @@@      @   %%  @    @@   %%  @  </tspan>
   <tspan x="20" y="310">  @@  @             @     @      @@     @   </tspan>
-  <tspan x="20" y="330">   @@                @@@@     %   @@@@@    </tspan>
+  <tspan x="20" y="330">   @@                @@@@    %%   @@@@@    </tspan>
   <tspan x="20" y="350">     @@@@@@                          @     </tspan>
   <tspan x="20" y="370">      @@@  @@                       @@     </tspan>
   <tspan x="20" y="390">       @@   @@            %%%%    @@      </tspan>
@@ -36,27 +37,25 @@ text, tspan {white-space: pre;}
   <tspan x="20" y="470">        @@@               @                </tspan>
   <tspan x="20" y="490">            @@@@@         @                </tspan>
 </text>
-
 <text x="420" y="40" fill="#24292f">
-<tspan x="420" y="40">pvpkishore</tspan>
-<tspan x="420" y="60">——————</tspan>
-<tspan x="420" y="80" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows</tspan>
-<tspan x="420" y="100" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years</tspan>
-<tspan x="420" y="120" class="keyColor">Host</tspan>: <tspan class="valueColor">National Institute of Technology, Calicut</tspan><tspan class="commentColor"> #NITC</tspan>
-<tspan x="420" y="160" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode </tspan>
-<tspan x="420" y="200" class="keyColor">Programming</tspan>.<tspan class="keyColor">Languages</tspan>: <tspan class="valueColor">C, C++, Python, JavaScript</tspan>
-<tspan x="420" y="220" class="keyColor">Programming</tspan>.<tspan class="keyColor">Frameworks</tspan>: <tspan class="valueColor">ReactJS, NodeJS,Tailwind,Bootstrap,Jquery</tspan>
-<tspan x="420" y="240" class="keyColor">Programming</tspan>.<tspan class="keyColor">Databases</tspan>: <tspan class="valueColor">MongoDB, MySQL</tspan>
-<tspan x="420" y="280" class="keyColor">Programming</tspan>.<tspan class="keyColor">Services</tspan>: <tspan class="valueColor">Git</tspan>
+<tspan x="420" y="40" class="whitecolor">pvpkishore</tspan>
+<tspan x="420" y="60" class="whitecolor">——————</tspan>
+<tspan x="420" y="80" class="keyColor">OS: </tspan><tspan class="valueColor">Windows</tspan>
+<tspan x="420" y="100" class="keyColor">Uptime: </tspan><tspan class="valueColor">20 years</tspan>
+<tspan x="420" y="120" class="keyColor">Host: </tspan><tspan class="valueColor">National Institute of Technology, Calicut</tspan><tspan class="commentColor"> #NITC</tspan>
+<tspan x="420" y="160" class="keyColor">IDE: </tspan><tspan class="valueColor">VSCode </tspan>
+<tspan x="420" y="200" class="keyColor">Programming.</tspan><tspan class="keyColor">Languages: </tspan><tspan class="valueColor">C, C++, Python, JavaScript</tspan>
+<tspan x="420" y="220" class="keyColor">Programming.</tspan><tspan class="keyColor">Frameworks: </tspan><tspan class="valueColor">ReactJS,NodeJS,Tailwind,Bootstrap</tspan>
+<tspan x="420" y="240" class="keyColor">Programming.</tspan><tspan class="keyColor">Databases: </tspan><tspan class="valueColor">MongoDB, MySQL</tspan>
+<tspan x="420" y="280" class="keyColor">Programming.</tspan><tspan class="keyColor">Services: </tspan><tspan class="valueColor">Git</tspan>
 
-<tspan x="420" y="320" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Telugu</tspan>
-<tspan x="420" y="340" class="keyColor">Self</tspan>.<tspan class="keyColor">Interests</tspan>: <tspan class="valueColor">DS,WEBD, MERN</tspan>
-<tspan x="420" y="360" class="keyColor">Self</tspan>.<tspan class="keyColor">Email</tspan>: <tspan class="valueColor">pvpkishore09@gmail.com</tspan>
-<tspan x="420" y="400" class="keyColor">Profiles</tspan>:
-<tspan x="420" y="420">——————</tspan>
-<tspan x="420" y="440" class="keyColor">Portfolio</tspan>: <tspan class="valueColor">pvpkishore.com</tspan>
-<tspan x="420" y="460" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Pvpkishore</tspan>
-<tspan x="420" y="480" class="keyColor">Leetcode</tspan>: <tspan class="valueColor">pvpkishore</tspan>
+<tspan x="420" y="320" class="keyColor">Languages.</tspan><tspan class="keyColor">Real: </tspan><tspan class="valueColor">English,Telugu</tspan>
+<tspan x="420" y="340" class="keyColor">Self.</tspan><tspan class="keyColor">Interests: </tspan><tspan class="valueColor">DS,WEBD,MERN</tspan>
+<tspan x="420" y="360" class="keyColor">Self.</tspan><tspan class="keyColor">Email: </tspan><tspan class="valueColor">pvpkishore09@gmail.com</tspan>
+<tspan x="420" y="400" class="keyColor">Profiles: </tspan>
+<tspan x="420" y="420" class="whitecolor">——————</tspan>
+<tspan x="420" y="440" class="keyColor">Portfolio: </tspan><tspan class="valueColor">pvpkishore.com</tspan>
+<tspan x="420" y="460" class="keyColor">LinkedIn: </tspan><tspan class="valueColor">Pvpkishore</tspan>
+<tspan x="420" y="480" class="keyColor">Leetcode: </tspan><tspan class="valueColor">pvpkishore</tspan>
 </text>
-
 </svg>
